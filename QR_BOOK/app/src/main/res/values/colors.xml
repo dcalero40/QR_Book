@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bf5a36</color>
+    <color name="colorPrimaryDark">#bf5a36</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorGrisOscuro">#565659</color>
+    <color name="colorGrisClaro">#89888c</color>
+    <color name="naranjaMedio">#d96e30</color>
+
+    <color name="colorNaranjaFuerte">#bf5a36</color>
+    <color name="colorNaranjaMedioBajo">#e88851</color>
+    <color name="colorNaranjaBajo">#f2a477</color>
+    <color name="colorBlanco">#ffffff</color>
+</resources>
